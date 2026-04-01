@@ -26,4 +26,5 @@ Imported the SQL views into Power BI with a 1-to-many relationship. Created dyna
 * **Automated Root Cause (Key Influencers):** Utilized built-in AI to run regression analysis across all sensors, identifying which specific mechanical settings drive engine failure the fastest.
 
 ## 📊 Dashboard Preview
-*(Note to self: Upload a screenshot of your dashboard to the repo and link it here using `![Dashboard](screenshot_name.png)`)*
+<img width="1098" height="613" alt="Screenshot 2026-04-01 175733" src="https://github.com/user-attachments/assets/57cdfaf2-a061-4f19-b726-c26b7f88de6e" />
+
